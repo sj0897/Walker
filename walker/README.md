@@ -17,7 +17,7 @@ mkdir -p ~/ros2_ws/src
 cd ~/ros2_ws/src
 ```
 
-## Clone the repository
+## Cloning the repository
 ```
 git clone https://github.com/sj0897/Walker.git
 ```
