@@ -1,0 +1,1 @@
+cppcheck --enable=all --std=c++17 --suppress=missingIncludeSystem test/* src/* > results/cppcheck.txt
